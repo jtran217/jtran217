@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnny</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-- 🔭 I’m currently working on [Brief Buzz](https://github.com/jtran217/simplify-brief-buzz)
 
-- 🌱 I’m currently learning **Data structure and algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jtran217](https://github.com/jtran217)
 
