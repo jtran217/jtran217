@@ -4,8 +4,8 @@
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/jtran217](https://github.com/jtran217)
-
-- 📫 How to reach me **jktran1998@gmail.com**
+-  Check out my work here 👉 [**johnnyktran.com**](https://www.johnnyktran.com/)
+- 📫 How to reach me **johnny.kq.tran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
